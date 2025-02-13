@@ -2,15 +2,7 @@
 
 This is my second Flutter project.
 
-## Getting Started
+here i created a student study app where students can take various courses .For now this is just a basic ui made by writting 500 lines of code
+without help of chatgpt.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#here's the poster i made for this app
